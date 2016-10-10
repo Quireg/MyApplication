@@ -1,8 +1,0 @@
-public static void Main(String[] args){
-	public String doZbs(){
-		String zbs = "vse zbs";
-	return zbs;
-	}
-
-}
-
