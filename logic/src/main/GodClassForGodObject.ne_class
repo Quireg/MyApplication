@@ -1,5 +1,5 @@
 public static void Main(String[] args){
-	public void doZbs(){
+	public String doZbs(){
 		String zbs = "vse zbs";
 	return zbs;
 	}
